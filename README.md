@@ -17,7 +17,8 @@ Aside from that, the student has access to just records and attendance reports.
 
 Email : glbajajadmin@mail.com
 Password: Password@123
-Teacher Login Details
+
+** Teacher Login Details **
 
 Email : teacher@mail.com
 Password: pass123
